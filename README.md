@@ -22,4 +22,5 @@ The executables, source code, and powerpoint are in the releases.
 **Credits**
 
 By Kristian Kurktchiev
+
 With the help of Google, Wikipedia, and Cheat Engine's tutorials.
