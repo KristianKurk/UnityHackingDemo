@@ -9,12 +9,13 @@ The demo consists of using Cheat Engine to attempt to modify a value that's load
 3. Run Hackable Game.exe.
 4. Run Cheat Engine.
 5. Select Hackable Game from Cheat Engine's list.
-6. Type 100 into the value box.
-7. Continue until you find the memory address corresponding to your value.
-8. Modify the value.
-9. Look at your game. The value should be changed.
-10. Repeat steps 3-8 with Non-Hackable.exe.
-11. You shouldn't be able to find the value *easily*
+6. Type the variable's value (100 initially) into the value box.
+7. If you haven't narrowed it to a single value, decrease the value of the variable in Hackable Game.exe.
+8. Continue until you find the memory address corresponding to your value.
+9. Modify the value.
+10. Look at your game. The value should be changed.
+11. Repeat steps 3-8 with Non-Hackable.exe.
+12. You shouldn't be able to find the value ((*easily*))
 
 There is a test case included in the code.
 The executables, source code, and powerpoint are in the releases.
